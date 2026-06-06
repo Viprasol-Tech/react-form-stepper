@@ -1,7 +1,7 @@
 {
   "name": "react-form-stepper",
-  "version": "0.1.0",
-  "description": "Multi-step form wizard component for React with validation per step.",
+  "version": "0.2.0",
+  "description": "Headless, accessible multi-step form wizard for React: async per-step validation, optional/skippable & disabled steps, non-linear navigation, form-state collection, and four progress variants.",
   "type": "module",
   "license": "MIT",
   "author": "Viprasol Tech Private Limited",
@@ -20,7 +20,11 @@
     "wizard",
     "multi-step",
     "typescript",
-    "ui-components"
+    "ui-components",
+    "headless",
+    "accessible",
+    "react-hook",
+    "async-validation"
   ],
   "main": "dist/index.js",
   "module": "dist/index.js",
